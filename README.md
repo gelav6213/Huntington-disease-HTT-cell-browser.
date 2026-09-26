@@ -1,4 +1,8 @@
-# UCSC Cell Browser Activity — HTT and Huntington Disease
+## UCSC Cell Browser Activity — HTT and Huntington Disease
+
+## Name: Angela B. Villegas 
+## Gene: HTT
+## Disease: Huntington disease 
 
 ## PART B. Open the UCSC Cell Browser and Choose a Dataset
 
@@ -167,3 +171,8 @@ The clusters represent distinct brain cell types or cell populations in the stri
  5. What was the most interesting observation you made about your assigned gene?
 
 - The most interesting observation was that HTT is broadly expressed across several cell types but appears more strongly expressed in D1 SPN and D2 SPN neurons. This was interesting because the striatum and its neuronal populations are important in Huntington disease, connecting the gene's expression pattern with the tissue affected by the disease.
+
+## References and links:
+https://cells.ucsc.edu/?ds=mammal-striatum-evo+final&gene=HTT
+
+https://cells.ucsc.edu/?bp=caudate+nucleus&org=Human+(H.+sapiens)&ds=mammal-striatum-evo
